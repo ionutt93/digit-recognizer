@@ -1,1 +1,1 @@
-# digit-recognizer
+# Random forests tutorial
